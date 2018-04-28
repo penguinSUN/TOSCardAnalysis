@@ -1,0 +1,10 @@
+C:\Users\陽光企鵝\TOSCardAnalysis\bin\Debug\netcoreapp2.0\TOSCardAnalysis.deps.json
+C:\Users\陽光企鵝\TOSCardAnalysis\bin\Debug\netcoreapp2.0\TOSCardAnalysis.runtimeconfig.json
+C:\Users\陽光企鵝\TOSCardAnalysis\bin\Debug\netcoreapp2.0\TOSCardAnalysis.runtimeconfig.dev.json
+C:\Users\陽光企鵝\TOSCardAnalysis\bin\Debug\netcoreapp2.0\TOSCardAnalysis.dll
+C:\Users\陽光企鵝\TOSCardAnalysis\bin\Debug\netcoreapp2.0\TOSCardAnalysis.pdb
+C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.AssemblyInfoInputs.cache
+C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.AssemblyInfo.cs
+C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.dll
+C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.pdb
