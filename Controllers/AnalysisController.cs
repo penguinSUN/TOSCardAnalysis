@@ -2,13 +2,22 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Business;
 using Microsoft.AspNetCore.Mvc;
+using Model;
 
 namespace TOSCardAnalysis.Controllers
 {
-    [Route("api/[controller]")]
-    public class ValuesController : Controller
+    [Route("api/toscard/")]
+    public class AnalysisController : Controller
     {
+        private readonly IAnalsisService service;
+
+        public AnalysisController(IAnalsisService service)
+        {
+            this.service = service;
+        }
+
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
@@ -24,9 +33,10 @@ namespace TOSCardAnalysis.Controllers
         }
 
         // POST api/values
-        [HttpPost]
-        public void Post([FromBody]string value)
+        [HttpPost("analysis")]
+        public void Post([FromBody]AnalysisInputModel value)
         {
+            var a = service.GetAnalsisResult(value);
         }
 
         // PUT api/values/5
