@@ -12544,11 +12544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\陽光企鵝\\TOSCardAnalysis\\TOSCARDANALYSIS\\TOSCardAnalysis.csproj",
-      "projectName": "TOSCardAnalysis",
-      "projectPath": "c:\\Users\\陽光企鵝\\TOSCardAnalysis\\TOSCARDANALYSIS\\TOSCardAnalysis.csproj",
+      "projectUniqueName": "C:\\Users\\陽光企鵝\\TOSCardAnalysis\\TOSCARDANALYSIS\\TOSCARDANALYSIS.csproj",
+      "projectName": "TOSCARDANALYSIS",
+      "projectPath": "C:\\Users\\陽光企鵝\\TOSCardAnalysis\\TOSCARDANALYSIS\\TOSCARDANALYSIS.csproj",
       "packagesPath": "C:\\Users\\陽光企鵝\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\陽光企鵝\\TOSCardAnalysis\\TOSCARDANALYSIS\\obj\\",
+      "outputPath": "C:\\Users\\陽光企鵝\\TOSCardAnalysis\\TOSCARDANALYSIS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

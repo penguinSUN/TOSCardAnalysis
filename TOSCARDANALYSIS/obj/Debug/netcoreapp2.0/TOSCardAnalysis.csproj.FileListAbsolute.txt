@@ -8,3 +8,13 @@ C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.As
 C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.AssemblyInfo.cs
 C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.dll
 C:\Users\陽光企鵝\TOSCardAnalysis\obj\Debug\netcoreapp2.0\TOSCardAnalysis.pdb
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\bin\Debug\netcoreapp2.0\TOSCARDANALYSIS.deps.json
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\bin\Debug\netcoreapp2.0\TOSCARDANALYSIS.runtimeconfig.json
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\bin\Debug\netcoreapp2.0\TOSCARDANALYSIS.runtimeconfig.dev.json
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\bin\Debug\netcoreapp2.0\TOSCARDANALYSIS.dll
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\bin\Debug\netcoreapp2.0\TOSCARDANALYSIS.pdb
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\obj\Debug\netcoreapp2.0\TOSCARDANALYSIS.csproj.CoreCompileInputs.cache
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\obj\Debug\netcoreapp2.0\TOSCARDANALYSIS.AssemblyInfoInputs.cache
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\obj\Debug\netcoreapp2.0\TOSCARDANALYSIS.AssemblyInfo.cs
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\obj\Debug\netcoreapp2.0\TOSCARDANALYSIS.dll
+c:\Users\陽光企鵝\TOSCardAnalysis\TOSCARDANALYSIS\obj\Debug\netcoreapp2.0\TOSCARDANALYSIS.pdb
